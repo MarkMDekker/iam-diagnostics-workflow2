@@ -42,12 +42,15 @@
         countries: Brazil
     - EPPA 8|Africa:
         countries: [
-          Benin, Burkina Faso, Botswana, Cote d'Ivoire, Cameroon, Egypt, Ethiopia, Ghana,
-          Guinea, Kenya, Morocco, Madagascar, Mozambique, Mauritius, Malawi, Namibia, 
-          Nigeria, Rwanda, Senegal, Togo, Tunisia, Tanzania United Republic of, Uganda, South Central Africa,
-          Central Africa, Djibouti, Eritrea, Mayotte, Seychelles, Somalia, South Sudan, Libya, 
-          Western Sahara, Lesotho, Cabo Verde, Gambia, Guinea-Bissau, Liberia, Saint Helena, Sierra Leone, 
-          South Africa, Zambia, Zimbabwe
+          Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde,
+          Cameroon, Central African Republic, Chad, Comoros, Côte d'Ivoire,
+          Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea,
+          Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau,
+          Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania,
+          Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda,
+          "Saint Helena, Ascension and Tristan da Cunha", Sao Tome and Principe,
+          Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Tanzania,
+          Togo, Tunisia, Uganda, Zambia, Zimbabwe, Western Sahara
         ]
     - EPPA 8|Middle East:
         countries: [
